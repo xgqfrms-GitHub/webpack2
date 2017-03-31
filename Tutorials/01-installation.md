@@ -2,6 +2,17 @@
 
 https://webpack.js.org/guides/installation/
 
+https://webpack.js.org/api/node/
+
+https://webpack.js.org/api/cli/
+
+https://webpack.js.org/configuration/configuration-types/
+
+https://webpack.js.org/configuration/
+
+
+
+
 ## install
 
 ```sh
