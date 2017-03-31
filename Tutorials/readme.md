@@ -12,6 +12,9 @@
  * @link https://webpack.js.org/configuration/module/#rule-loader
  * Plugins
  * @link https://webpack.js.org/configuration/plugins/
+ *
+ * @link https://nodejs.org/api/path.html
+ * @link https://nodejs.org/docs/latest/api/globals.html#globals_dirname
  */
 
 /*
