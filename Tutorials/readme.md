@@ -54,7 +54,20 @@ http://www.css88.com/doc/webpack2/
 
 
 
+## template 
 
+```js
+
+/**
+ * Created by xgqfrms on 2017/3/31.
+ * Copyright © 2017-2050 xgqfrms
+ * @version 2.1.1
+ * website: https://www.xgqfrms.xyz/copyright.html
+ */
+'use strict';
+
+
+``` 
 
 
 
