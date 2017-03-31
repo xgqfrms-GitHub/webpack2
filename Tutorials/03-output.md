@@ -16,6 +16,12 @@ module.exports = {
 
 ```
 
+https://webpack.js.org/configuration/output/
+
+```js
+
+
+``` 
 
 
 
@@ -37,8 +43,12 @@ module.exports = config;
 
 ```
 
+https://webpack.js.org/api/plugins/
+
+```js
 
 
+``` 
 
 
 
