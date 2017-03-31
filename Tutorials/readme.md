@@ -14,6 +14,7 @@
  * @link https://webpack.js.org/configuration/plugins/
  *
  * @link https://nodejs.org/api/path.html
+ * @link https://nodejs.org/api/path.html#path_windows_vs_posix
  * @link https://nodejs.org/docs/latest/api/globals.html#globals_dirname
  */
 
