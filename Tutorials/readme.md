@@ -36,3 +36,26 @@
 ## Migrating from v1 to v2
 
 https://webpack.js.org/guides/migrating/
+
+## others
+
+
+
+https://github.com/xgqfrms/ng2-seed/blob/master/config/Webpack/webpack.prod.js
+
+https://github.com/xgqfrms-GitHub/React-ES6-Skeleton/blob/master/webpack.config.js
+
+https://doc.webpack-china.org/
+
+https://medium.com/webpack/webpack-2-and-beyond-40520af9067f
+
+http://www.css88.com/doc/webpack2/
+
+
+
+
+
+
+
+
+
