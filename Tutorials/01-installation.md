@@ -25,8 +25,8 @@ $ npm i -D webpack
 
 ```js
 "scripts": {
-    "start": "webpack --config webpack.config.js"
-    "pro": "webpack --config webpack.pro.config.js"
+    "start": "webpack --config webpack.config.js",
+    "pro": "webpack --config webpack.pro.config.js",
     "dev": "webpack --config webpack.dev.config.js"
 }
 
