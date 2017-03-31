@@ -32,3 +32,7 @@
  * Plugins
  * @link https://webpack.js.org/concepts/plugins
  */
+
+## Migrating from v1 to v2
+
+https://webpack.js.org/guides/migrating/
